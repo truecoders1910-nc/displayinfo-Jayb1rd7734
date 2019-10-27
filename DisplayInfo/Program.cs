@@ -43,7 +43,7 @@ namespace DisplayInfo
             else if (favoriteNumber < 5)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.Write("{0},\n", favoriteNumber);
+                Console.Write("{0}.\n", favoriteNumber);
                 Console.ForegroundColor = ConsoleColor.Gray;
             }
             else
