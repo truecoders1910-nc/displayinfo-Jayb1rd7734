@@ -53,7 +53,7 @@ namespace DisplayInfo
                 Console.Write("{0}.\n", favoriteNumber);
             }
 
-            Console.Write("Thank-you for your psrticipation.\n");
+            Console.Write("Thank-you for your participation.\n");
 
         }
     }
